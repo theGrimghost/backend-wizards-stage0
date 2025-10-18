@@ -55,12 +55,11 @@ Response format:
 
 ## Deployment
 
-Deployed on Railway: [Your URL will go here]
+Deployed on Railway: https://web-production-4cac8.up.railway.app/me
 
 ## Repository
 
 GitHub: https://github.com/theGrimghost/backend-wizards-stage0
-
 
 
 
