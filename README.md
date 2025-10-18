@@ -59,7 +59,7 @@ Deployed on Railway: [Your URL will go here]
 
 ## Repository
 
-GitHub: [Your repo URL will go here]
+GitHub: https://github.com/theGrimghost/backend-wizards-stage0
 
 
 
